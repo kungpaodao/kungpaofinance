@@ -149,8 +149,8 @@
                                   symbol: "BNB",
                                   decimals: 18,
                                 },
-                                rpcUrls: _,
-                                blockExplorerUrls: ["https://bsc-dataseed.binance.org/"],
+                                rpcUrls: ["https://bsc-dataseed.binance.org/"],
+                                blockExplorerUrls: ["https://bscscan.com"],
                               },
                             ],
                           })
