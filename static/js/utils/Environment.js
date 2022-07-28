@@ -1,6 +1,6 @@
 let Environment = {
-  YfethContractAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
-  MorocoContractcAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
-  evangelismAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
+  YfethContractAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
+  MorocoContractcAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
+  evangelismAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
 };
 export default Environment;
