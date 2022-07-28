@@ -420,9 +420,9 @@
           return ie(se, e, t);
         },
         ue = {
-          YfethContractAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
-          MorocoContractcAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
-          evangelismAddress: "0x634c376B95Dce178E9448C41979E2CCC3814B26C",
+          YfethContractAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
+          MorocoContractcAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
+          evangelismAddress: "0x9313eafeF981013c08bc67386AeBD190520EB808",
         }.YfethContractAddress;
       n(631);
       var pe = function (e) {
@@ -708,7 +708,7 @@
                 Object(q.jsx)("p", {
                   className: "pts text-color",
                   children:
-                    "KungPao Token (PAO) CONTRACT ADDRESS : 0x634c376B95Dce178E9448C41979E2CCC3814B26C",
+                    "KungPao Token (PAO) CONTRACT ADDRESS : 0x9313eafeF981013c08bc67386AeBD190520EB808",
                 }),
                 Object(q.jsxs)("div", {
                   className: "row px-sm-0 px-4",
